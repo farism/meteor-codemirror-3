@@ -1,0 +1,8 @@
+{
+  "name": "codemirror-3",
+  "description": "CodeMirror 3.2 repackaged for Meteor",
+  "homepage": "https://github.com/farism/meteor-codemirror-3",
+  "author": "Faris Mustafa <farismmk@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/farism/meteor-codemirror-3.git"
+}
